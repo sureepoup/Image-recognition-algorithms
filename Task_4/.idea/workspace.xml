@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fc2f473-d9d0-4b76-bb54-5d1f4cf9bd48" name="Default Changelist" comment="" />
+    <list default="true" id="2fc2f473-d9d0-4b76-bb54-5d1f4cf9bd48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Task_7/Task_7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task_7/Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K_means.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/K_means.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_5/Lectures/Osobye_tochki.ppt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_5/Lectures/Osobye_tochki.ppt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task_6/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,12 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/K_means.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -52,18 +58,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Task_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,16 +96,17 @@
       <workItem from="1570255902850" duration="3473000" />
       <workItem from="1570266740132" duration="690000" />
       <workItem from="1570732867035" duration="713000" />
+      <workItem from="1573244784265" duration="282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11721000" />
+    <option name="totallyTimeSpent" value="12003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06300268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17493297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -125,11 +122,11 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.042432815" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.042432815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.02010724" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
